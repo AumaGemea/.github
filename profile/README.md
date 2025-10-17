@@ -3,6 +3,10 @@
   <p><i>Um novo 'aumigo', uma nova paixão. </i></p>
 </div>
 
+### 🎯 Sobre Nós
+
+Somos um grupo de estudantes de tecnologia, com a missão de desenvolver uma plataforma web de adoção responsável em São Paulo. Acreditamos no poder da colaboração para construir um futuro melhor através da tecnologia.
+
 ### Nossão missão, visão e valores
 
 <p><b>Missão:</b> Conectar animais a lares responsáveis por meio de uma plataforma tecnológica e segura.</p>
@@ -10,10 +14,6 @@
 </p>
 <p><b>Valores: </b> Responsabilidade, Parceria, Inclusão, Comunidade, Empatia e Amor. O projeto também está alinhado com os Objetivos de Desenvolvimento Sustentável 3 Saúde e Bem Estar, 4 Educação de Qualidade e 18 Igualdade Étinico-Racial da ONU.
 </p>
-
-### 🎯 Sobre Nós
-
-Somos um grupo de estudantes de tecnologia, com a missão de desenvolver uma plataforma web de adoção responsável em São Paulo. Acreditamos no poder da colaboração para construir um futuro melhor através da tecnologia.
 
 ### 💻 Nosso Stack de Tecnologias
 
